@@ -1,0 +1,5 @@
+Hello World
+Python is awesome
+I love Python
+
+Python is my favorite programming language

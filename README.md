@@ -1,7 +1,50 @@
-# Python-OPP
+# Python-OOP
 
-  This is my first serious and "original" project, the idea it's to practice my python sintaxe skills
-and my OOP skills.
+> This project is part of my Python tutorial, in order to demonstrate for students the main concept of Object-Oriented-Programming in Python.
+
+## Built With ⚙️
+
+- **Major languages**: Python.
+- **Frameworks**: No-Frameworks.
+- **Tools**: Git, Gitflow, GitHub, VS Code, & Chrome Browser.
+
+## Live Demo (Not Available)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- [x] Basic Knowledge of **Python**.
+- [x] Basic knowledge of **Git** & **GitHub**.
+- [x] Basic knowledge of **VS Code** or any other code-editors.
+
+### Setup
+
+- Create a new **Python-Tutorial** folder and move into it.
+- Open the **Command Prompt (CMD)** in the current directory (Python-Tutorial).
+- Run the following command:
+
+```
+$ git clone https://github.com/ZikaZaki/Python-OOP.git
+```
+
+- Once finished you should see a new folder called **Python-OOP** in your current directory.
+- Start customizing the project so it fits your personal preferences and needs.
+- Enjoy your new professional **Python-OOP** project!
+
+### Install Dependencies
+
+```
+$ npm install
+```
+
+### Run tests
+
+```
+$ npm test
+```
 
 ## The Code
 
@@ -57,3 +100,38 @@ capture(self, pokemon, area, methods)      =>      It receives the pokeballs to 
                                                  in the list file explaination
                                                  
 ### Game Functions 
+
+## Authors
+
+👤 **Zakariya Al-Khamisi ([ZikaZaki](https://github.com/ZikaZaki))**
+
+- GitHub: [ZikaZaki](https://github.com/ZikaZaki)
+- Twitter: [Zakariya Al-Khamisi](https://twitter.com/ZakariyaKhamisi)
+- LinkedIn: [Zakariya Al-Khamisi](https://www.linkedin.com/in/zakariyaalkhamisisap/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+
+# Python-OPP
+
+  This is my first serious and "original" project, the idea it's to practice my python sintaxe skills
+and my OOP skills.
+
